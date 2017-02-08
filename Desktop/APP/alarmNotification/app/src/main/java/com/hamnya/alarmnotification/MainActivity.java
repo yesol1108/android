@@ -16,6 +16,8 @@ import android.widget.Toast;
     1. push button.
     2. after 5 min.
     3. get notification message.
+
+    소스 원본 출처:http://veryeasyandroid.blogspot.kr/2016/02/service.html
  */
 public class MainActivity extends AppCompatActivity {
     private Button startBtn, cancelBtn;
