@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">alarmNotification</string>
+    <string name="explain">after 5 min, get notification message </string>
 </resources>
