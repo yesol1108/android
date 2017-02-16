@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+
+# yesol-xml files
+* .idea/compiler.xml
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
